@@ -11,9 +11,9 @@ Fase 2: Hij zal vragen stellen (random(vraagwoord) + random(werkwoord) + random(
 Fase 3: Kan uitingen beoordelen en eenvoudige interne procedures uitvoeren, zoals het verlaten van het systeem, het starten van de chatmodus, het starten van de quizmodus, het starten van de zoekmodus，het starten van de eenvoudige rekenkundig modus, en vertaal modus.
 
 Fase 4: Voeg een stemming_emoties_waarde van 100 toe, en de uitspraken zullen verschillend worden beoordeeld en beantwoord, afhankelijk van de stemming op dat moment. 
-+Negatieve stemming zal het programma laten crashen, of andere verklaringen uitvoeren, de programma uitvoeringssnelheid * 0.2 (vertraging). 
-+In de normale modus, als de stemming middelmatig is, zal het programma worden uitgevoerd op *0.5. 
-+Als de stemming goed is, zal het programma worden uitgevoerd op *1. 
++*Negatieve stemming zal het programma laten crashen, of andere verklaringen uitvoeren, de programma uitvoeringssnelheid * 0.2 (vertraging). 
++*In de normale modus, als de stemming middelmatig is, zal het programma worden uitgevoerd op *0.5. 
++*Als de stemming goed is, zal het programma worden uitgevoerd op *1. 
 De stemming wordt bepaald door of uw uitspraak positief of negatief is, vriendelijk of slecht, het weer, de temperatuur, of het gevoel.
 
 Fase 5: Zelfleren
