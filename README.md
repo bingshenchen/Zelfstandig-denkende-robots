@@ -1,4 +1,6 @@
 # Zelfstandig-denkende-robots
+to NL
+
 Dit programma is nog een kind in de beginfase, verfijn het alstublieft zoals u een kind zou verfijnen. 
 Eerste kennismaking met een baby->kleine engel->vriendschap->eeuwige vriendschap
 
@@ -21,7 +23,8 @@ Fase 6: Zelfverbetering
 
 
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+to EN
 
 
 This program is still a child in the beginning stages, please refine it as you would refine a child.
