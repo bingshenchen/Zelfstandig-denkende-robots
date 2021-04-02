@@ -26,6 +26,7 @@ Fase 6: Zelfverbetering
 
 This program is still a child in the beginning stages, please refine it as you would refine a child.
 First encounter with a baby->angel->friendship->Everlasting friendship
+
 Stage 1: Will communicate simply by checking the database (question_answer), or by using 999+ if and else if statements, or by using case statements.
 
 Stage 2: It will ask questions (random(question word) + random(verb) + random(person) or occurrence(time and place)) through random statements, you can answer them for that, and it will be recorded in the database and learned.
